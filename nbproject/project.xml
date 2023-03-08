@@ -5,6 +5,7 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>MidtermExam_VersionA_ExtensionCode</name>
             <source-roots>
+                <root id="src.midtermexam_versiona_extensioncode.dir"/>
                 <root id="src.dir"/>
             </source-roots>
             <test-roots>

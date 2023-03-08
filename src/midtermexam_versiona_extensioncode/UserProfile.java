@@ -1,5 +1,10 @@
 package midtermexam_versiona_extensioncode;
 
+/**
+* This is a sample comment for the exam
+* My name is Mohammad Shahid and my student id is 991675314
+*/
+
 public class UserProfile {
     
     private String userID;
